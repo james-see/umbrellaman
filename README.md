@@ -16,11 +16,23 @@ npm start
 
 # OR using Yarn
 yarn start
+
+# OR using npx
+
+npx react-native start
+
 ```
 
 ## Step 2: Start your Application
 
 Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+
+
+### For MacOS
+
+```bash
+npx react-native run-macos
+```
 
 ### For Android
 
